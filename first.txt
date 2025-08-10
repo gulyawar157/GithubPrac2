@@ -4,3 +4,5 @@ Debug 1st error. Successfull.
 Reading 2nd code and error is coming.
 
 Debugged 2nd error successfully. 
+
+Make the changes in fonts and design of the homepage.

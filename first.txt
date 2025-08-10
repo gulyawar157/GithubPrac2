@@ -9,3 +9,5 @@ Make the changes in fonts and design of the homepage.
 Started working on footer.
 
 Working on Animations, Now
+
+Done working on animations.

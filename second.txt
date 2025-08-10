@@ -5,3 +5,5 @@ Need schema from the client.
 
 Connected database and port and defined models.
 Defining routes.
+
+Debugging b1 error.

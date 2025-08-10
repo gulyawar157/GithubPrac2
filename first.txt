@@ -1,4 +1,4 @@
-Hello , GM
+Hello , GM Dev1 is managing this frontend part monitored by senior .
 Debug 1st error. Successfull.
 
 Reading 2nd code and error is coming.
@@ -6,3 +6,4 @@ Reading 2nd code and error is coming.
 Debugged 2nd error successfully. 
 
 Make the changes in fonts and design of the homepage.
+Started working on footer.

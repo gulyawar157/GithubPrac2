@@ -1,1 +1,4 @@
 Working on backend part of project but asssits in other work.
+
+Adding and defining basic struture of project.
+Need schema from the client.

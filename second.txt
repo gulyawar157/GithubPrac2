@@ -4,3 +4,4 @@ Adding and defining basic struture of project.
 Need schema from the client.
 
 Connected database and port and defined models.
+Defining routes.

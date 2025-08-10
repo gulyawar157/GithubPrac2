@@ -9,3 +9,5 @@ Defining routes.
 Debugging b1 error.
 Done debugging error b1. 
 Solving b2 error.
+
+Studing implementation of authn and authz.

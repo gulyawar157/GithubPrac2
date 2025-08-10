@@ -2,3 +2,5 @@ Hello , GM
 Debug 1st error. Successfull.
 
 Reading 2nd code and error is coming.
+
+Debugged 2nd error successfully. 

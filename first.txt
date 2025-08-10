@@ -6,3 +6,4 @@ Reading 2nd code and error is coming.
 Debugged 2nd error successfully. 
 
 Make the changes in fonts and design of the homepage.
+NO need to do add footer on homegae untilll told.
